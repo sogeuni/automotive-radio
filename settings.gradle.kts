@@ -20,7 +20,7 @@ dependencyResolutionManagement {
 }
 
 rootProject.name = "Automotive Radio"
-include(":mobile")
+//include(":mobile") // mobile 모듈 비활성화
 include(":automotive")
 include(":shared")
  
